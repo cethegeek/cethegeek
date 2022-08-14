@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cethegeek 
+- 👀 I’m interested in Python, Salesforce, Web and Mobile development, Leadership
+- 🌱 I’m currently learning Snowflake
+- 📫 How to reach me: https://www.linkedin.com/in/celopes/
